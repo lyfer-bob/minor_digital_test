@@ -34,8 +34,10 @@ note : Visual Studio not important.
 step 2. open emulator (create by android strudio)
         if ever using this emulator. please wipe data first
 
-step 3. open this project
+step 3. open this project by visual studio code
 
 step 4. run command => flutter pub get and waiting for success loading
 
 step 5. run command => flutter run
+
+note : if you want to read comment is so good try to install Better Comments extension
